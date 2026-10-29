@@ -1,0 +1,15 @@
+﻿# .NET build output
+bin/
+obj/
+.vs/
+
+# Test output
+TestResults/
+coverage/
+
+# Logs
+*.log
+
+# Local secrets
+.env
+.env.*
